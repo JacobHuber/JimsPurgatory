@@ -1,11 +1,14 @@
 # Jim's Purgatory - Computer Science 599.82 Term Project
 
-An original game created for the Commodore Vic-20 written in 6502 Assembly.
+An original game created for the Commodore Vic-20 written in 6502 Assembly. Entire project runs in 3.5KB of memory utilizing screen memory to store map data.
 
-Entire project runs in 3.5KB of memory utilizing screen memory to store map data. 
+Created by:
+- Jacob Huber
+- Karen Kuribayashi
+- Debprasad Mandal
+- Eddy Qiang
 
-Compiled using DASM.
-
+Compiled using DASM
 
 ## Gameplay
 <img src="https://user-images.githubusercontent.com/16791782/173258290-ed1bd8e2-3443-4f9d-9d3f-ead000fbd3cb.png" width="600"/>
